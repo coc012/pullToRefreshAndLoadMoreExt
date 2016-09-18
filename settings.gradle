@@ -1,2 +1,2 @@
-include ':app', ':bgademo', ':demo_easyRecyclerView', ':easyrecyclerview', ':app_LRecyclerview', ':LRecyclerview_library'
+include ':app', ':demo_easyRecyclerView', ':easyrecyclerview', ':app_LRecyclerview', ':LRecyclerview_library'
 include ':pullToRefreshAndLoad'
